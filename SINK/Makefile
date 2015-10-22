@@ -1,0 +1,4 @@
+COMPONENT=THESEUS_SinkManagerAppC
+
+include $(MAKERULES)
+
