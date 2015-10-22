@@ -1,3 +1,10 @@
+/*
+Author: Mohammadreza Iman
+Project Name: THESEUS
+A master degree thesis project
+Federal University of Rio de Janeiro (UFRJ), PPGI, Brazil
+mohammadreza.iman@hotmail.com
+*/
 #include "Timer.h"
 #include "messages.h"
 #define CycleTime 0xF000 // cycle timer set to 61440 milliseconds (60 seconds) and it will make new cycle every 3 times of this time (means each 3 minutes like PROC)

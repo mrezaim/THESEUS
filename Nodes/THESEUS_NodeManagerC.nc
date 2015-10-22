@@ -1,3 +1,10 @@
+/*
+Author: Mohammadreza Iman
+Project Name: THESEUS
+A master degree thesis project
+Federal University of Rio de Janeiro (UFRJ), PPGI, Brazil
+mohammadreza.iman@hotmail.com
+*/
 #include "Timer.h"
 #include "messages.h"
 #define NeighborsLen 0x0014 //Maximum number of neighbours on the list is 20

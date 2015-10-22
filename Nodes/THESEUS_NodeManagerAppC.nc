@@ -1,3 +1,10 @@
+/*
+Author: Mohammadreza Iman
+Project Name: THESEUS
+A master degree thesis project
+Federal University of Rio de Janeiro (UFRJ), PPGI, Brazil
+mohammadreza.iman@hotmail.com
+*/
 #include "messages.h"
 
 configuration THESEUS_NodeManagerAppC {}
